@@ -213,7 +213,7 @@
     }
 
     .circle {
-        width: 120px;
+        width: 80px;
         margin: 6px 6px 20px;
         display: inline-block;
         position: relative;
@@ -238,7 +238,8 @@
     }
 
     .progress-info {
-        margin: 8px 0px 8px;
+        margin: 19px 0px 19px;
+        
     }
 
     section#faq-par {

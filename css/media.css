@@ -57,14 +57,14 @@
         top: 30%;
         left: 0%;
         text-align: center;
+        color:#ff841f;
     }
 
     .header-col2 {
         float: none;
         height: 100vh;
         width: 100%;
-        background-blend-mode: overlay;
-        background-image: url(/images/happy.jpg);
+        background-blend-mode: overlay; 
     }
 
     .header-col1 h5 {
@@ -278,22 +278,6 @@
 
     #project:before {
         display: none;
-    }
-
-    #price-table {
-        background-color: #ffcfcf;
-        padding: 50px 30px;
-        margin-top: 20px;
-    }
-
-    .basic-price-col {
-        float: none;
-        width: 100%;
-        margin-left: 0%;
-        padding: 50px;
-        text-align: center;
-        border-radius: 20px;
-        margin-top: 40px;
     }
 
     section#blog {

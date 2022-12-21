@@ -105,10 +105,6 @@ header {
     padding-top: 20px;
 }
 
-.header-col2{
-    background-image: url(/images/meet.jpg);
-}
-
 .nav-col {
     float: left;
     width: 75%;
@@ -176,7 +172,7 @@ section.header-bg-parent {
 
 .header-col2 {
     float: right;
-    background-image: url(../young.jpg);
+    background-image: url(/images/meet.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;

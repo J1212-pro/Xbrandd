@@ -213,33 +213,19 @@
     }
 
     .circle {
-        width: 80px;
-        margin: 6px 6px 20px;
-        display: inline-block;
-        position: relative;
-        text-align: center;
-        line-height: 1.2;
+        display: none;
     }
 
     .circle canvas {
-        vertical-align: top;
-        width: 90px !important;
+        display: none;
     }
 
     .circle strong {
-        position: absolute;
-        top: 25px;
-        left: 0;
-        width: 100%;
-        text-align: center;
-        line-height: 40px;
-        font-size: 23px;
-        color: black;
+        display: none;
     }
 
     .progress-info {
-        margin: 19px 0px 19px;
-        
+        display: none;
     }
 
 

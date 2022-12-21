@@ -105,6 +105,10 @@ header {
     padding-top: 20px;
 }
 
+.header-col2{
+    background-image: url(/images/young.jpg);
+}
+
 .nav-col {
     float: left;
     width: 75%;
